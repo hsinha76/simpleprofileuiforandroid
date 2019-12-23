@@ -1,5 +1,5 @@
-# simpleprofileuiforandroid
-Simple Android UI app that uses JSON API to get user data and display on screen.
+# JSON to Android app
+Simple Android app that uses JSON API to get user data and display on screen.
 
 [![Screenshot-1576255172.png](https://i.postimg.cc/9FWTV9LM/Screenshot-1576255172.png)](https://postimg.cc/kDpDv233)
 
